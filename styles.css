@@ -1,1 +1,15 @@
 /* your code */
+table
+{
+	border: 1px solid;
+	border-radius: 5px;
+}
+.one
+{
+	background-color: #215a8e;
+	color: white;
+}
+.three,.five
+{
+	background-color: #DCDEE0;
+}
